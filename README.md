@@ -1,5 +1,23 @@
 # QSWATPlus
 
+> [!IMPORTANT]
+> **This is not the official QSWATPlus repository.** It is a fork maintained by
+> [estuarine-utokyo](https://github.com/estuarine-utokyo) for coastal and watershed modelling in Ghana
+> (Volta and Densu basins). It may contain local modifications and build settings that are not in
+> the official code. Use the official repository, [swat-model/QSWATPlus](https://github.com/swat-model/QSWATPlus), for
+> the released QSWATPlus, and report issues with the official code there, not here.
+>
+> Branches of this fork:
+> - `main` -- the maintainer's development branch (default; push and pull here);
+> - `upstream-master` -- an unmodified copy of the official `swat-model/QSWATPlus` branch `master`, updated by
+>   fast-forward only and merged into `main` from time to time.
+>
+> To follow the official repository in a clone: `git remote add upstream https://github.com/swat-model/QSWATPlus.git`,
+> then `git fetch upstream`; update `upstream-master` with
+> `git push origin upstream/master:upstream-master` and merge it into `main`. Do not press GitHub's
+> "Sync fork" button on `main`: it compares `main` with the official branch and offers to discard
+> the local commits.
+
 QGIS plugin for creating inputs for SWAT+.
 
 ## Build
