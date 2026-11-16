@@ -2,8 +2,8 @@
 
 > [!IMPORTANT]
 > **This is not the official QSWATPlus repository.** It is a fork maintained by
-> [estuarine-utokyo](https://github.com/estuarine-utokyo) for coastal and watershed modelling in Ghana
-> (Volta and Densu basins). It may contain local modifications and build settings that are not in
+> [estuarine-utokyo](https://github.com/estuarine-utokyo) for watershed and coastal modelling research
+> (coupled with FVCOM). It may contain local modifications and build settings that are not in
 > the official code. Use the official repository, [swat-model/QSWATPlus](https://github.com/swat-model/QSWATPlus), for
 > the released QSWATPlus, and report issues with the official code there, not here.
 >
